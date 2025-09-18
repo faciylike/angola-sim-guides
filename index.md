@@ -92,3 +92,10 @@ layout: default
 
 　　**一句话总结**：在安哥拉保持连接并不难，选择Unitel求稳定，选择Movicel图实惠，或者直接使用eSIM省心省力——关键是根据自己的需求提前规划，避免落地后陷入“数字孤岛”的困境。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Angola eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/angola-data-plans)
